@@ -1,4 +1,6 @@
 # yaqr
+@DevLabNet :+1: This Widget is great - it's Time to Test It! 
+
 Yet Another QR Widget
 This widget is designed to easily create QR-Code Link Image.
 
