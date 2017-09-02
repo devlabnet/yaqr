@@ -270,7 +270,7 @@ CKEDITOR.dialog.add('yaqr', function(editor) {
                                 type: 'html',
                                 id: 'borderQR',
                                 style: 'text-align: center; font-weight: bold;color: tomato;',
-                                html: '<p>' + editor.lang.yaqr.qrProp + '</p>',
+                                html: '<p>' + editor.lang.yaqr.qrPropColor + '</p>',
                                 // Called by the main setupContent method call on dialog initialization.
                             },
                             {
