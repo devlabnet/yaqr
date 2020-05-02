@@ -18,7 +18,7 @@ var isHandlingData;
 // Register the plugin within the editor.
 CKEDITOR.plugins.add("yaqr", {
     requires: "widget",
-    lang: "en,fr,uk", // %REMOVE_LINE_CORE%
+    lang: "bg,en,fr,uk", // %REMOVE_LINE_CORE%
     // Register the icons.
     icons: "yaqr",
     hidpi: true, // %REMOVE_LINE_CORE%
